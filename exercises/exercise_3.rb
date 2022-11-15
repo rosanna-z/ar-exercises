@@ -2,6 +2,9 @@ require_relative '../setup'
 require_relative './exercise_1'
 require_relative './exercise_2'
 
+# Assign third store to instance variable
+# Destroy third store
+
 puts "Exercise 3"
 puts "----------"
 

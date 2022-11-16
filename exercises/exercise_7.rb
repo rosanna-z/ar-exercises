@@ -7,7 +7,7 @@ require_relative './exercise_5'
 require_relative './exercise_6'
 
 # Validation for both models
-# Error message if attempt to create record
+# Error message if attempt to create record 
 puts "Exercise 7"
 puts "----------"
 
